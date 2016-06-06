@@ -17,17 +17,20 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 
 ### Languages
 ##### JavaScript
-JavaScript enhances the old and true web interface — clicking links, entering information and sending off forms, etc. — to be more responsive to the end user. 
+JavaScript is a programming language that adds interactivity to your website (for example: games, responses when buttons are pressed or data entered in forms, dynamic styling, animation).
 
-A few things you definatelly need to know about JavaScript if you want to understand it in depth:
-* [high-level](https://en.wikipedia.org/wiki/High-level_programming_language), 
-* [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language), 
-* [untyped](https://en.wikipedia.org/wiki/Programming_language#Type_system), 
-* [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) 
+A few things you definatelly need to know about JavaScript if you want to understand it in depth. It is:
+* [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+* [untyped](https://en.wikipedia.org/wiki/Programming_language#Type_system)
+* [interpreted](https://en.wikipedia.org/wiki/Interpreted_language)
+* [prototype-based](https://en.wikipedia.org/wiki/Prototype-based_programming)
+* with [first-class functions](https://en.wikipedia.org/wiki/First-class_function)
 
 programming language. Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
-JavaScript is *prototype-based* with *first-class functions*, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.
+JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles.
+
+[Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 ### Frameworks
 ##### AngularJS v1
