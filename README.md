@@ -12,6 +12,7 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 ##### [AngularJS v1](#angularjs-v1)
 
 ### [Tools](#tools)
+##### [Browser Developer Tools](#browser-developer-tools)
 ##### [Kendo UI](#kendo-ui)
 
 
@@ -36,5 +37,6 @@ JavaScript is a multi-paradigm language, supporting object-oriented, imperative 
 ##### AngularJS v1
 
 ### Tools
+##### [Browser Developer Tools](https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools)
 ##### Kendo UI
 
