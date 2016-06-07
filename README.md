@@ -29,9 +29,11 @@ A few things you definatelly need to know about JavaScript if you want to unders
 
 programming language. Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
-JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles.
+JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles. Find below a few helpful links
 
-[Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [Basics (Interactive Lesson 1)](http://javascript.didacto.net/)
+* [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
 ### Frameworks
 ##### AngularJS v1
