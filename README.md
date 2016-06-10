@@ -22,17 +22,22 @@ JavaScript is a programming language that adds interactivity to your website (fo
 
 A few things you definatelly need to know about JavaScript if you want to understand it in depth. It is:
 * [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-* [untyped](https://en.wikipedia.org/wiki/Programming_language#Type_system)
-* [interpreted](https://en.wikipedia.org/wiki/Interpreted_language)
 * [prototype-based](https://en.wikipedia.org/wiki/Prototype-based_programming)
+* [interpreted](https://en.wikipedia.org/wiki/Interpreted_language)
 * with [first-class functions](https://en.wikipedia.org/wiki/First-class_function)
 
 programming language. Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
-JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles. Find below a few helpful links
+JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles.
+Created by Netscape (today's Mozilla) enginneers, there is no better place for documentation than the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) in Mozilla Developer Network.
+
+Find below helpful links to start studying. Enjoy!
 
 * [Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 * [Basics (Interactive Lesson 1)](http://javascript.didacto.net/)
+* [Function Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_scope)
+* [Variable Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Variable_scope)
+* [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
 ### Frameworks
