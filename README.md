@@ -42,6 +42,7 @@ Find below helpful links to start studying. Enjoy!
 * [JavaScript Hoisting Explained](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
 * [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### Frameworks
 ##### AngularJS v1
