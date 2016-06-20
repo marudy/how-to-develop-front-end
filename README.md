@@ -54,6 +54,11 @@ Game development and other apps that heavily manipulate the DOM or need pure spe
 
 Using dependency injection, Angular brings traditionally server-side services, such as view-dependent controllers, to client-side web applications. Consequently, much of the burden on the server can be reduced.
 
+Find below helpful links to start studying. Enjoy!
+
+* [Conceptual Overview](https://docs.angularjs.org/guide/concepts)
+* [How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+
 ### Tools
 ##### [Browser Developer Tools](https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools)
 ##### Kendo UI
