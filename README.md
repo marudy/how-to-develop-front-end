@@ -46,11 +46,13 @@ Find below helpful links to start studying. Enjoy!
 
 ### Frameworks
 ##### AngularJS v1
-AngularJS is a complete JavaScript-based open-source client and server-side web application framework mainly maintained by Google to address many of the challenges encountered in developing single-page applications. 
+AngularJS is an MV* framework that is ideal for use when building client-side single-page apps. It is not a library, but a framework for building dynamic web pages. It focuses on extending HTML and providing dynamic data binding, and it plays well with other frameworks (e.g., jQuery). Instead of manipulating the DOM “directly,” you annotate your DOM with metadata (directives), and Angular manipulates the DOM for you.
 
 A single-page application ([SPA](https://en.wikipedia.org/wiki/Single-page_application)) is a web application where either all necessary code – HTML, JavaScript, and CSS – is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions. The page does not reload at any point in the process.
 
-AngularJS  aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller ([MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)) and model–view–viewmodel ([MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)) architectures. Using dependency injection, Angular brings traditionally server-side services, such as view-dependent controllers, to client-side web applications. Consequently, much of the burden on the server can be reduced.
+Game development and other apps that heavily manipulate the DOM or need pure speed are not good fits for AngularJS.
+
+Using dependency injection, Angular brings traditionally server-side services, such as view-dependent controllers, to client-side web applications. Consequently, much of the burden on the server can be reduced.
 
 ### Tools
 ##### [Browser Developer Tools](https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools)
