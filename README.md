@@ -29,7 +29,7 @@ A few things you definatelly need to know about JavaScript if you want to unders
 programming language. Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
 JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles.
-Created by Netscape (today's Mozilla) enginneers, there is no better place for documentation than the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) in Mozilla Developer Network.
+Created by Netscape (today's Mozilla) engineers, there is no better place for documentation than the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) in Mozilla Developer Network.
 
 Find below helpful links to start studying. Enjoy!
 
@@ -38,7 +38,8 @@ Find below helpful links to start studying. Enjoy!
 * Scoping
  * [Variable Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Variable_scope)
  * [Function Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_scope)
- * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) 
+ * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+* [JavaScript Hoisting Explained](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
 * [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
