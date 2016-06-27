@@ -58,6 +58,7 @@ Find below helpful links to start studying. Enjoy!
 
 * [Conceptual Overview](https://docs.angularjs.org/guide/concepts)
 * [How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+* [Directives Cheat Sheet](https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-directive-definition-object-cheat-sheet.pdf?__s=n5ryciokbigwwwkvvwhc)
 
 ### Tools
 ##### [Browser Developer Tools](https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools)
