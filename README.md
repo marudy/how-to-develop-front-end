@@ -66,4 +66,11 @@ Find below helpful links to start studying. Enjoy!
 ### Tools
 ##### [Browser Developer Tools](https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools)
 ##### Kendo UI
+Kendo UI® by Progress is an HTML5 user interface framework for building interactive and high-performance websites and applications. The framework comes with a library of 70+ UI widgets, an abundance of data-visualization gadgets, client-side data source, built-in MVVM (Model-View-ViewModel) library. Kendo UI provides AngularJS and Bootstrap integration.
 
+The [Kendo UI Book](http://codylindley.github.io/the-kendo-ui-book/) is useful to understand why may someone need to use Kendo and how it works
+
+* Kendo UI Charts
+ * [Pie Charts](http://docs.telerik.com/kendo-ui/controls/data-management/grid/overview)
+
+Reference: [Check Out Kendo UI Online Demos](http://demos.telerik.com/kendo-ui/)
