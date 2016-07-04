@@ -46,15 +46,9 @@ Find below helpful links to start studying. Enjoy!
 
 ### Frameworks
 ##### AngularJS v1
-AngularJS is an MV* framework that is ideal for use when building client-side single-page apps. It is not a library, but a framework for building dynamic web pages. It focuses on extending HTML and providing dynamic data binding, and it plays well with other frameworks (e.g., jQuery). Instead of manipulating the DOM “directly,” you annotate your DOM with metadata (directives), and Angular manipulates the DOM for you.
+AngularJS is an MV* framework that is ideal for use when building client-side single-page apps. It is not a library, but a framework for building dynamic web pages. It focuses on extending HTML and providing dynamic data binding. Instead of manipulating the DOM “directly,” you annotate your DOM with metadata (directives), and Angular manipulates the DOM for you. Angular is ideal for single-page application ([SPA](https://en.wikipedia.org/wiki/Single-page_application)) development.
 
-A single-page application ([SPA](https://en.wikipedia.org/wiki/Single-page_application)) is a web application where either all necessary code – HTML, JavaScript, and CSS – is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions. The page does not reload at any point in the process.
-
-Game development and other apps that heavily manipulate the DOM or need pure speed are not good fits for AngularJS.
-
-Using dependency injection, Angular brings traditionally server-side services, such as view-dependent controllers, to client-side web applications. Consequently, much of the burden on the server can be reduced.
-
-Find below helpful links to start studying. Enjoy!
+Using dependency injection, Angular brings traditionally server-side services, such as view-dependent controllers, to client-side web applications. Consequently, much of the burden on the server can be reduced. Get in speed with AngularJS by starting with the links below:
 
 * [Conceptual Overview](https://docs.angularjs.org/guide/concepts)
 * [How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
