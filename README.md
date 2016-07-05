@@ -18,15 +18,14 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 
 ### Languages
 ##### JavaScript
-JavaScript is a programming language that adds interactivity to your website (for example: games, responses when buttons are pressed or data entered in forms, dynamic styling, animation).
+JavaScript is a programming language that adds interactivity to your website (for example: games, dynamic styling, animation). Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
-A few things you definatelly need to know about JavaScript if you want to understand it in depth. It is:
+A few things about JavaScript you should definatelly know before you start learning it in depth; JS is:
+
 * [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 * [prototype-based](https://en.wikipedia.org/wiki/Prototype-based_programming)
 * [interpreted](https://en.wikipedia.org/wiki/Interpreted_language)
 * with [first-class functions](https://en.wikipedia.org/wiki/First-class_function)
-
-programming language. Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
 JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles.
 Created by Netscape (today's Mozilla) engineers, there is no better place for documentation than the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) in Mozilla Developer Network.
