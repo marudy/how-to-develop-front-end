@@ -11,10 +11,6 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 ### [Frameworks](#frameworks)
 ##### [AngularJS v1](#angularjs-v1)
 
-### [Tools](#tools)
-##### [Browser Developer Tools](#browser-developer-tools)
-##### [Kendo UI](#kendo-ui)
-
 
 ### Languages
 ##### JavaScript
@@ -55,15 +51,3 @@ Using dependency injection, Angular brings traditionally server-side services, s
   * [Introduction](http://www.ng-newsletter.com/posts/beginner2expert-directives.html)
   * [Build Custom Directives](http://www.ng-newsletter.com/posts/directives.html)
   * [Cheat Sheet](https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-directive-definition-object-cheat-sheet.pdf?__s=n5ryciokbigwwwkvvwhc)
-
-### Tools
-##### [Browser Developer Tools](https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools)
-##### Kendo UI
-Kendo UI® by Progress is an HTML5 user interface framework for building interactive and high-performance websites and applications. The framework comes with a library of 70+ UI widgets, an abundance of data-visualization gadgets, client-side data source, built-in MVVM (Model-View-ViewModel) library. Kendo UI provides AngularJS and Bootstrap integration.
-
-The [Kendo UI Book](http://codylindley.github.io/the-kendo-ui-book/) is useful to understand why may someone need to use Kendo and how it works
-
-* Kendo UI Charts
- * [Pie Charts](http://docs.telerik.com/kendo-ui/controls/data-management/grid/overview)
-
-Reference: [Check Out Kendo UI Online Demos](http://demos.telerik.com/kendo-ui/)
