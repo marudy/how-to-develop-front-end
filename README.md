@@ -26,7 +26,7 @@ A few things about JavaScript you should definatelly know before you start learn
 JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles.
 Created by Netscape (today's Mozilla) engineers, there is no better place for documentation than the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) in Mozilla Developer Network.
 
-Find below helpful links to start studying. Enjoy!
+**Basics and Object Oriented JavaScript:**
 
 * [Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 * [Basics (Interactive Lesson 1)](http://javascript.didacto.net/)
@@ -38,6 +38,11 @@ Find below helpful links to start studying. Enjoy!
 * [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
+
+**Advanced JavaScript:**
+
+* [Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
+* [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
 
 ### Frameworks
 ##### AngularJS v1
