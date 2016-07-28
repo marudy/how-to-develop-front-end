@@ -54,5 +54,6 @@ Using dependency injection, Angular brings traditionally server-side services, s
 * [How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
 * Directives
   * [Introduction](http://www.ng-newsletter.com/posts/beginner2expert-directives.html)
+  * [Scoping](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
   * [Build Custom Directives](http://www.ng-newsletter.com/posts/directives.html)
   * [Cheat Sheet](https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-directive-definition-object-cheat-sheet.pdf?__s=n5ryciokbigwwwkvvwhc)
