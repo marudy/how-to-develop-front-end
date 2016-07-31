@@ -35,6 +35,10 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
  * [Function Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_scope)
  * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 * [JavaScript Hoisting Explained](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
+* Events
+ * **Quick Definition:** DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface.
+ * [3 ways to register Event Listeners](https://github.com/marudy/how-to-develop-front-end/edit/master/README.md)
+ * [Custom Event Example](https://www.sitepoint.com/javascript-custom-events/)
 * [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
@@ -43,6 +47,7 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 
 * [Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
 * [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
+* [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
 ### Frameworks
 ##### AngularJS v1
