@@ -7,6 +7,8 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 
 ### [Languages](#languages)
 ##### [JavaScript](#javascript)
+##### [Advanced JavaScript](#advanced)
+##### [Examples](#examples)
 
 ### [Frameworks](#frameworks)
 ##### [AngularJS v1](#angularjs-v1)
@@ -48,6 +50,9 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 * [Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
 * [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
 * [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+
+** Examples: **
+* [JavaScript string functions in action](https://www.sitepoint.com/15-javascript-string-functions/)
 
 ### Frameworks
 ##### AngularJS v1
