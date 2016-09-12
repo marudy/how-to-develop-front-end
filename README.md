@@ -47,7 +47,7 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 
 **Advanced JavaScript:**
 
-* [Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
+* [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 * [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
 * [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
