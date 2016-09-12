@@ -51,8 +51,8 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 * [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
 * [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
-** Examples: **
-* [JavaScript string functions in action](https://www.sitepoint.com/15-javascript-string-functions/)
+**Tutorials/Resources:**
+* [JavaScript.com](https://www.sitepoint.com/15-javascript-string-functions/): Interesting project by Code School, with material for both novice and advanced coders
 
 ### Frameworks
 ##### AngularJS v1
