@@ -37,6 +37,7 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
  * [Function Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_scope)
  * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 * [JavaScript Hoisting Explained](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
+* [Promises](https://www.promisejs.org/)
 * Events
  * **Quick Definition:** DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface.
  * [3 ways to register Event Listeners](https://github.com/marudy/how-to-develop-front-end/edit/master/README.md)
