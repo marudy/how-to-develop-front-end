@@ -52,7 +52,7 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 * [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
 **Tutorials/Resources:**
-* [JavaScript.com](https://www.sitepoint.com/15-javascript-string-functions/): Interesting project by Code School, with material for both novice and advanced coders
+* [JavaScript.com](https://www.javascript.com/): Interesting project by Code School, with material for both novice and advanced coders
 
 ### Frameworks
 ##### AngularJS v1
