@@ -8,7 +8,7 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 ### [Languages](#languages)
 ##### [JavaScript](#javascript)
 ##### [Advanced JavaScript](#advanced)
-##### [Examples](#examples)
+##### [Tutorials/Resources](#resources)
 
 ### [Frameworks](#frameworks)
 ##### [AngularJS v1](#angularjs-v1)
