@@ -50,6 +50,7 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 
 * [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 * [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
+* [More Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
 **Tutorials/Resources:**
