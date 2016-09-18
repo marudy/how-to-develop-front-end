@@ -11,15 +11,14 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 ### JavaScript
 JavaScript is a programming language that adds interactivity to your website (for example: games, dynamic styling, animation). Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
-A few things about JavaScript you should definatelly know before you start learning it in depth; JS is:
+You need to know that JavaScript is:
 
-* [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-* [prototype-based](https://en.wikipedia.org/wiki/Prototype-based_programming)
-* [interpreted](https://en.wikipedia.org/wiki/Interpreted_language)
-* with [first-class functions](https://en.wikipedia.org/wiki/First-class_function)
+* [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language) - like many other languages!
+* [prototype-based](https://en.wikipedia.org/wiki/Prototype-based_programming) - pay attention here!
+* with [first-class functions](https://en.wikipedia.org/wiki/First-class_function) - functions are treated as first class citizens!
 
 JavaScript is a multi-paradigm language, supporting object-oriented, imperative and functional programming styles.
-Created by Netscape (today's Mozilla) engineers, there is no better place for documentation than the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) in Mozilla Developer Network.
+Created by Mozilla (back then it was called Netscape) engineers, there is no better place for documentation than the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) in Mozilla Developer Network.
 
 **Basics and Object Oriented JavaScript**
 
@@ -28,23 +27,17 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 * Scoping
  * [Variable Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Variable_scope)
  * [Function Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_scope)
- * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+ * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) - introduced in ES6!
 * [JavaScript Hoisting Explained](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
 * [Promises](https://www.promisejs.org/)
-* Events
- * **Quick Definition:** DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface.
- * [3 ways to register Event Listeners](https://github.com/marudy/how-to-develop-front-end/edit/master/README.md)
- * [Custom Event Example](https://www.sitepoint.com/javascript-custom-events/)
 * [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-
 
 **Advanced-Javascript**
 
 * [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
-* [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
+* [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/) - part of JavaScript closures!
 * [More Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-* [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
 ### AngularJS-v1
 AngularJS is an MV* framework that is ideal for use when building client-side single-page apps. It is not a library, but a framework for building dynamic web pages. It focuses on extending HTML and providing dynamic data binding. Instead of manipulating the DOM “directly,” you annotate your DOM with metadata (directives), and Angular manipulates the DOM for you. Angular is ideal for single-page application ([SPA](https://en.wikipedia.org/wiki/Single-page_application)) development.
