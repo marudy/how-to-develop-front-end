@@ -13,7 +13,7 @@ JavaScript is a programming language that adds interactivity to your website (fo
 
 You need to know that JavaScript is:
 
-* [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language) - like many other languages!
+* [dynamic](https://en.wikipedia.org/wiki/Dynamic_programming_language) - meaning it's a loosely type language!
 * [prototype-based](https://en.wikipedia.org/wiki/Prototype-based_programming) - pay attention here!
 * with [first-class functions](https://en.wikipedia.org/wiki/First-class_function) - functions are treated as first class citizens!
 
