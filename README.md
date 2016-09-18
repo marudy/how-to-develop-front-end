@@ -7,7 +7,7 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 
 ### [Languages](#languages)
 ##### [JavaScript](#javascript)
-##### [Advanced JavaScript](#advanced)
+##### [Advanced JavaScript](#advanced-javascript)
 ##### [Tutorials/Resources](#resources)
 
 ### [Frameworks](#frameworks)
@@ -46,18 +46,18 @@ Created by Netscape (today's Mozilla) engineers, there is no better place for do
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
 
-**Advanced JavaScript:**
+##Advanced-JavaScript
 
 * [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 * [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
 * [More Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
-**Tutorials/Resources:**
+##Resources
 * [JavaScript.com](https://www.javascript.com/): Interesting project by Code School, with material for both novice and advanced coders
 
 ### Frameworks
-##### AngularJS v1
+##### AngularJS-v1
 AngularJS is an MV* framework that is ideal for use when building client-side single-page apps. It is not a library, but a framework for building dynamic web pages. It focuses on extending HTML and providing dynamic data binding. Instead of manipulating the DOM “directly,” you annotate your DOM with metadata (directives), and Angular manipulates the DOM for you. Angular is ideal for single-page application ([SPA](https://en.wikipedia.org/wiki/Single-page_application)) development.
 
 Using dependency injection, Angular brings traditionally server-side services, such as view-dependent controllers, to client-side web applications. Consequently, much of the burden on the server can be reduced. Get in speed with AngularJS by starting with the links below:
