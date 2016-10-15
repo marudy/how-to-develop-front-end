@@ -64,7 +64,23 @@ React Native, is an open-source JavaScript library, which enables native iOS and
 React creates an in-memory data structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently. This allows the programmer to write code as if the entire page is rendered on each change while the React libraries only render subcomponents that actually change.
 
 - JSX
-React components are typically written in JSX, a *JavaScript extension syntax allowing quoting of HTML and using HTML tag syntax to render subcomponents.* HTML syntax is processed into JavaScript calls of the React library. Developers may also write in pure JavaScript.
+React components are typically written in JSX, a *JavaScript extension syntax allowing quoting of HTML and using HTML tag syntax to render subcomponents.* Many frameworks use a special templating language which lets you embed code inside HTML (i.e. Angular). In React, this is reversed. JSX lets you write your HTML inside JavaScript code. 
+
+- Components
+JavaScript code written in classes(ES2015) and using JSX mentioned above. I.e.
+```html
+<pre>
+class HelloWorldApp extends Component {
+  render() {
+    return (
+      <Text>Hello world!</Text>
+    );
+  }
+}
+</pre>
+```
+
+```<Text>``` from above is a built-in component that just displays some text.
 
 
 **React uses ES2015 syntax**
