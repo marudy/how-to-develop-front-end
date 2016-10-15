@@ -25,13 +25,13 @@ Created by Mozilla (back then it was called Netscape) engineers, there is no bet
 * Scoping
  * [Variable Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Variable_scope)
  * [Function Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_scope)
- * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) - introduced in ES6!
+ * [Block Scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) - introduced in ES2015!
 * [Data Types & Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [JavaScript Hoisting Explained](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
 * [Promises](https://www.promisejs.org/)
 * [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [ES6 basics (also called ES2015)](https://www.martin-brennan.com/es6-basics/)
+* [ES2015 basics (also called ES6)](https://www.martin-brennan.com/es6-basics/)
 
 **Advanced Javascript:**
 * [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
