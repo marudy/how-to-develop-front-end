@@ -7,6 +7,7 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 
 * [JavaScript](#javascript)
 * [AngularJS v1](#angularjs-v1)
+* [React Native](#react-native)
 
 ## JavaScript
 JavaScript is a programming language that adds interactivity to your website (for example: games, dynamic styling, animation). Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
@@ -53,3 +54,23 @@ Using dependency injection, Angular brings traditionally server-side services, s
   * [Scoping](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
   * [Build Custom Directives](http://www.ng-newsletter.com/posts/directives.html)
   * [Cheat Sheet](https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-directive-definition-object-cheat-sheet.pdf?__s=n5ryciokbigwwwkvvwhc)
+
+
+## React-Native
+React Native, is an open-source JavaScript library, which enables native iOS and Android development with React. To understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props.
+
+**Notable React Features**
+- The use of a "virtual DOM."
+React creates an in-memory data structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently. This allows the programmer to write code as if the entire page is rendered on each change while the React libraries only render subcomponents that actually change.
+
+- JSX
+React components are typically written in JSX, a *JavaScript extension syntax allowing quoting of HTML and using HTML tag syntax to render subcomponents.* HTML syntax is processed into JavaScript calls of the React library. Developers may also write in pure JavaScript.
+
+
+**React uses ES2015 syntax**
+
+First of all, ES2015 (also known as ES6) is a set of improvements to JavaScript that is now part of the official standard, but not yet supported by all browsers, so often it isn't used yet in web development. React Native ships with ES2015 support and ES2015 compiler.
+
+Before you proceed with React and React Native you need to have a look at ES2015. You don't need to read ES2015 extensively and all the changes it introduces but instead key changes and the ones that React uses. Check out this [article](https://www.martin-brennan.com/es6-basics/) for a simple and extensive but not comprehensive analysis. 
+
+
