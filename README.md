@@ -70,6 +70,9 @@ React components are typically written in JSX, a *JavaScript extension syntax al
 JavaScript code written in classes(ES2015) and using JSX mentioned above. I.e.
 ```html
 <pre>
+import React, { Component } from 'react';
+import { AppRegistry, Text } from 'react-native';
+
 class HelloWorldApp extends Component {
   render() {
     return (
@@ -81,6 +84,14 @@ class HelloWorldApp extends Component {
 ```
 
 ```<Text>``` from above is a built-in component that just displays some text.
+
+When you're building a React Native app, you'll be making new components a lot. Anything you see on the screen is some sort of component. A component reuires a render function which returns some JSX to render.
+
+- Props.
+Most components can be customized when they are created, with different parameters. These creation parameters are called props. This lets you make a single component that is used in many different places in your app, with slightly different properties in each place. Just refer to this.props in your render function.
+
+- State.
+There are two types of data that control a component: props and state. props are set by the parent and they are fixed throughout the lifetime of a component. For data that is going to change, we have to use state.
 
 
 **React uses ES2015 syntax**
