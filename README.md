@@ -69,7 +69,6 @@ React components are typically written in JSX, a *JavaScript extension syntax al
 - Components
 JavaScript code written in classes(ES2015) and using JSX mentioned above. I.e.
 ```html
-<pre>
 import React, { Component } from 'react';
 import { AppRegistry, Text } from 'react-native';
 
@@ -80,7 +79,6 @@ class HelloWorldApp extends Component {
     );
   }
 }
-</pre>
 ```
 
 ```<Text>``` from above is a built-in component that just displays some text.
