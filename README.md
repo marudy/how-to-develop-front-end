@@ -6,10 +6,15 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 ## Table Of Contents
 
 * [JavaScript](#javascript)
+ * [Intorudction](#introduction-to-javascript)
+ * [Advanced](#advanced-javascript)
+ * [ES2015 (ES6)](#es2015)
 * [AngularJS v1](#angularjs-v1)
 * [React Native](#react-native)
 
 ## JavaScript
+
+### Introduction-To-Javascript
 JavaScript is a programming language that adds interactivity to your website (for example: games, dynamic styling, animation). Alongside with HTML and CSS, it is one of the three core technologies of World Wide Web content production. 
 
 You need to know that JavaScript is:
@@ -32,14 +37,16 @@ Created by Mozilla (back then it was called Netscape) engineers, there is no bet
 * [Promises](https://www.promisejs.org/)
 * [Re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [ES2015 basics (also called ES6)](https://www.martin-brennan.com/es6-basics/)
 
-**Advanced Javascript:**
+### Advanced-JavaScript:
 * [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 * [More Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 * [Self-Executing Functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/) - part of JavaScript closures!
 
+### ES2015
+* [Basics](https://www.martin-brennan.com/es6-basics/)
+* [Video tutorial by egghead.io](https://egghead.io/courses/learn-es6-ecmascript-2015?utm_source=drip&utm_medium=email&utm_campaign=learn-es6)
 
 ## AngularJS-v1
 AngularJS is an MV* framework for use when building client-side single-page apps ([SPA](https://en.wikipedia.org/wiki/Single-page_application)). It is not a library, but a framework for building dynamic web pages. It focuses on *extending HTML* and providing dynamic data binding. Instead of manipulating the DOM “directly,” you annotate your DOM with metadata (directives), and Angular manipulates the DOM for you.
