@@ -46,6 +46,7 @@ Created by Mozilla (back then it was called Netscape) engineers, there is no bet
 
 ### ES2015
 * [Basics](https://www.martin-brennan.com/es6-basics/)
+* [Babel tutorial](https://babeljs.io/docs/learn-es2015/) 
 * [Video tutorial by egghead.io](https://egghead.io/courses/learn-es6-ecmascript-2015?utm_source=drip&utm_medium=email&utm_campaign=learn-es6)
 
 ## AngularJS-v1
@@ -105,4 +106,10 @@ First of all, ES2015 (also known as ES6) is a set of improvements to JavaScript 
 
 Before you proceed with React and React Native you need to have a look at ES2015. You don't need to read ES2015 extensively and all the changes it introduces but instead key changes and the ones that React uses. Check out this [article](https://www.martin-brennan.com/es6-basics/) for a simple and extensive but not comprehensive analysis. 
 
+**Get started with React Native**
 
+Have a look over [React Native website](https://facebook.github.io/react-native/docs/view.html) to gain access to information that include:
+- installation
+- tutorials
+- guides
+- components
