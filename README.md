@@ -6,7 +6,7 @@ Tools/technologies i deprecate over my work will also be removed from this guide
 ## Table Of Contents
 
 * [JavaScript](#javascript)
- * [Intorudction](#introduction-to-javascript)
+ * [Introduction](#introduction-to-javascript)
  * [Advanced](#advanced-javascript)
  * [ES2015 (ES6)](#es2015)
 * [AngularJS v1](#angularjs-v1)
