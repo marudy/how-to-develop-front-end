@@ -116,15 +116,19 @@ Have a look over [React Native website](https://facebook.github.io/react-native/
 - components
 
 ## Flexbox
-Flexbox as explained by [Scott Vandehey article](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef#.ullxjk8qp) is a layout method that has new introduced with CSS3 and serves as an alternative so that developers do not abuse floats. Floats / inline-block etc hacks are hard to remember. limited and usually also buggy. 
+Flexbox as explained by [Scott Vandehey article](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef#.ullxjk8qp) is a layout method that has been introduced with CSS3 and serves as an alternative so that developers do not abuse floats. Floats / inline-block etc hacks are hard to remember. limited and usually also buggy. 
 
 So far, there are three versions of the specification but only one matters: 
 * The [old 2009 spec](https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/) — display: box — is no longer relevant.
 * The [2011 “tweener” spec](https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/) — display: flexbox — was a draft spec, only implemented in IE10. You should avoid it if possible.
 * The [final 2012 spec](https://www.w3.org/TR/css-flexbox-1/) — display: flex — is the new hotness, with excellent browser support (see below).
 
-*Note:* Each spec used a different keyword for the display property, so if you see anything other than display:flex, it’s an older article and can be ignored.
+*Note:* Each spec used a different keyword for the display property, so if you see anything other than **display:flex** in the CSS code, it’s an older article and can be ignored.
 
-**Flexbox layouts**
+**Learn by playing**
+* [Flexbox Defence](http://www.flexboxdefense.com/) - Very fun tower defense educational game
+* [Flexbox Froggy](http://www.flexboxdefense.com/) - Interesting concept game with lots of levels
+
+**Learn by reading about flexbox layouts**
 * [Properties - complete guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS flexible boxes by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
