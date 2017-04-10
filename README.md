@@ -121,7 +121,9 @@ Flexbox as explained by [Scott Vandehey article](https://medium.com/@spaceninja/
 So far, there are three versions of the specification but only one matters but the one that matters is the final one:
 * The [final 2012 spec](https://www.w3.org/TR/css-flexbox-1/) — display: flex — is the new hotness, with excellent browser support.
 
-*Note:* Each spec used a different keyword for the display property, so if you see anything other than **display:flex** in the CSS code, it’s an older article and can be ignored.
+*Notes:*
+1. Each spec used a different keyword for the display property, so if you see anything other than **display:flex** in the CSS code, it’s an older article and can be ignored.
+1. Flexbox layout is most appropriate to the components of an application, and small-scale layouts, while the [Grid](http://css-tricks.com/snippets/css/complete-guide-grid/) layout is intended for larger scale layouts.
 
 **Learn by playing**
 * [Flexbox Defence](http://www.flexboxdefense.com/) - Very fun tower defense educational game
