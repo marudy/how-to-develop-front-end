@@ -132,3 +132,6 @@ So far, there are three versions of the specification but only one matters but t
 **Learn more about the Flexible Box Layout model**
 * [Complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Using CSS Flexible Boxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+
+**Flexbox layout in React Native**
+[Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4)
